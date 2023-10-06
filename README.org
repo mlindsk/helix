@@ -1,0 +1,20 @@
+
+ - https://docs.helix-editor.com/usage.html
+ - https://docs.helix-editor.com/keymap.html
+ - https://docs.helix-editor.com/languages.html#language-server-configuration
+ - https://docs.helix-editor.com/master/languages.html
+ - https://github.com/helix-editor/helix/blob/master/languages.toml
+ - https://alpha2phi.medium.com/helix-languages-7cf3263ed7c5
+
+* Theme
+
+ - https://docs.helix-editor.com/themes.html
+
+* Pipenv
+
+ - https://github.com/helix-editor/helix/discussions/5348
+
+* Tmux
+
+ - https://deliciousbrains.com/tmux-for-local-development/
+ - https://dev.to/rajasegar/helix-and-tmux-integration-3fd0
